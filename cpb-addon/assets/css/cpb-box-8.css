@@ -1,0 +1,26 @@
+.cpb-product-box-wrap
+  .cpb-empty-box
+  .cpb-empty-box-inner
+  .cpb-product-inner
+  .cpb-product-image
+  img {
+  width: 70px !important;
+  padding-bottom: 25px !important;
+}
+
+.filled .cpb-img-overlay {
+  width: 70px !important;
+}
+
+.cpb-product-box-wrap
+  .cpb-empty-box
+  .cpb-empty-box-inner
+  .cpb-product-inner
+  .cpb-product-image {
+  width: 70px !important;
+}
+
+.cpb-product-box-wrap .cpb-empty-box .cpb-empty-box-inner .cpb-product-inner {
+  width: 70px !important;
+}
+

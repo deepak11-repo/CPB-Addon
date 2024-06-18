@@ -1,0 +1,91 @@
+.cpb-product-box-wrap {
+    left: 152px !important;
+    width: 212.337px !important;
+    height: 370px !important;
+    padding: 28px !important;
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat !important;
+    background-color: none !important;
+    overflow: visible !important;
+    gap: 3px !important;
+  }
+  
+  .scroll-indicator {
+    display: none !important;
+  }
+  
+  .cpb-empty-box-inner {
+    width: 100% !important;
+    min-height: 100% !important;
+    margin: 0 !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
+  
+  .cpb-product-box-wrap
+    .cpb-empty-box
+    .cpb-empty-box-inner
+    .cpb-product-inner
+    .cpb-product-image
+    img {
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
+  
+  
+  .cpb-product-box-wrap
+    .cpb-empty-box
+    .cpb-empty-box-inner
+    .cpb-product-inner
+    .cpb-product-info {
+    display: none;
+  }
+  
+  .cpb-product-box-wrap
+    .cpb-empty-box
+    .cpb-empty-box-inner
+    .cpb-product-inner
+    .cpb-product-image {
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
+  
+  .cpb-product-box-wrap .cpb-empty-box .cpb-empty-box-inner .cpb-product-inner {
+    box-shadow: none !important;
+    margin-top: 10px !important;
+  }
+  
+  .box-full-msg span {
+    display: none !important;
+  }
+  
+  .custom-full-msg {
+    display: none;
+    width: 212.337px !important;
+    height: 370px !important;
+    top: 33px !important;
+    left: 152px !important;
+    position: absolute !important;
+    z-index: 2 !important;
+    background-size: cover !important;
+    background-position: center !important;
+    transition: none !important;
+  }  
+
+  .cpb-accessibility {
+    display: flex !important;
+  }
+
+  .cpb-expand {
+    display: none !important;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .cpb-product-box-wrap {
+      flex-wrap: wrap !important;
+    }
+    .cpb-vertical-layout .cpb-product-box-wrap {
+      height: 370px !important;
+    }
+  }
+  

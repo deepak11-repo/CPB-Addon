@@ -1,0 +1,28 @@
+.cpb-product-box-wrap
+  .cpb-empty-box
+  .cpb-empty-box-inner
+  .cpb-product-inner
+  .cpb-product-image
+  img {
+  width: 55px !important;
+  padding-bottom: 20px !important;
+}
+
+.filled .cpb-img-overlay {
+  width: 50px !important;
+}
+
+.cpb-product-box-wrap
+  .cpb-empty-box
+  .cpb-empty-box-inner
+  .cpb-product-inner
+  .cpb-product-image {
+  width: 50px !important;
+}
+
+.cpb-product-box-wrap .cpb-empty-box .cpb-empty-box-inner .cpb-product-inner {
+  width: 50px !important;
+  box-shadow: none !important;
+  margin-top: 3px !important;
+}
+
